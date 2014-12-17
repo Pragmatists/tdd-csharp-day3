@@ -8,7 +8,7 @@ Legacy Code exercises come from [lucaminudel/TDDwithMockObjectsAndDesignPrincipl
   * [Responsible Design for Android / J.B. Rainsberger](https://leanpub.com/ResponsibleDesignAndroid-Part1)
   * [Refactoring to Patterns /  Joshua Kerievsky](http://industriallogic.com/xp/refactoring/)
     * [Polish language version](helion.pl/ksiazki/refawp.htm)
-  * [The Art of Unit Testing, Second Edition with examples in C#](http://www.manning.com/osherove2/)
+  * [The Art of Unit Testing, Second Edition with examples in C# / Roy Osherove](http://www.manning.com/osherove2/)
 * Discussion groups
   * [Growing Object-Oriented Software](https://groups.google.com/forum/#!forum/growing-object-oriented-software)
   * [Software Craftsmanship](https://groups.google.com/forum/#!forum/software_craftsmanship)
@@ -20,4 +20,4 @@ Legacy Code exercises come from [lucaminudel/TDDwithMockObjectsAndDesignPrincipl
   * [Testing and Refactoring Legacy Code / Sandro Mancuso](https://www.youtube.com/watch?v=_NnElPO5BU0)
   * [Let's Play TDD! / James Shore](http://www.jamesshore.com/Blog/Lets-Play)
   * [KataCasts](http://vimeo.com/channels/katacasts)
-  * [Videos by Roy Osherove](http://osherove.com/videos/). Checko out also his links to videos of performing [String Calculator Kata](http://osherove.com/tdd-kata-2/)
+  * [Videos by Roy Osherove](http://osherove.com/videos/). Check out also his links to videos of performing [String Calculator Kata](http://osherove.com/tdd-kata-2/)
