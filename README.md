@@ -21,3 +21,5 @@ Legacy Code exercises come from [lucaminudel/TDDwithMockObjectsAndDesignPrincipl
   * [Let's Play TDD! / James Shore](http://www.jamesshore.com/Blog/Lets-Play)
   * [KataCasts](http://vimeo.com/channels/katacasts)
   * [Videos by Roy Osherove](http://osherove.com/videos/). Check out also his links to videos of performing [String Calculator Kata](http://osherove.com/tdd-kata-2/)
+* Other
+  * [Writing Testable Code / Jonathan Wolter, Russ Ruffer, Miško Hevery](http://misko.hevery.com/attachments/Guide-Writing%20Testable%20Code.pdf)
