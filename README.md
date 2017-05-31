@@ -7,7 +7,7 @@ Legacy Code exercises come from [lucaminudel/TDDwithMockObjectsAndDesignPrincipl
   * [Test-Driven Development: By Example / Kent Beck](http://www.amazon.com/gp/product/0321146530/ref=ox_sc_act_title_2?ie=UTF8&psc=1&smid=ATVPDKIKX0DER)
   * [Responsible Design for Android / J.B. Rainsberger](https://leanpub.com/ResponsibleDesignAndroid-Part1)
   * [Refactoring to Patterns /  Joshua Kerievsky](http://industriallogic.com/xp/refactoring/)
-    * [Polish language version](helion.pl/ksiazki/refawp.htm)
+    * [Polish language version](http://helion.pl/ksiazki/refawp.htm)
   * [The Art of Unit Testing, Second Edition with examples in C# / Roy Osherove](http://www.manning.com/osherove2/)
 * Discussion groups
   * [Growing Object-Oriented Software](https://groups.google.com/forum/#!forum/growing-object-oriented-software)
